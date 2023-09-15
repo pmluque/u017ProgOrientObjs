@@ -1,0 +1,9 @@
+build/*
+*.pbxuser
+*.swp
+*.model1v3
+*.model2v3
+*.perspective
+*.perspectivev3
+.DS_Store
+
